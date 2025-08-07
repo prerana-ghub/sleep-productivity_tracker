@@ -1,5 +1,5 @@
 # Sleep productivity tracker
-## A simple Streamlit web app to track and visualize your daily sleep hours and productivity levels. The app provides personalized suggestions and visual insights to help users reflect on their habits and improve daily performance.
+### A simple Streamlit web app to track and visualize your daily sleep hours and productivity levels. The app provides personalized suggestions and visual insights to help users reflect on their habits and improve daily performance.
 
 ## 🛠 How to Run the Project
 
